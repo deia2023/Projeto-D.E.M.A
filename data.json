@@ -1,0 +1,302 @@
+[
+    {
+        "titulo": "Cuscuz Nutritivo",
+        "descricao": "Bom dia! O cuscuz é barato e sustenta. Misture com um ovinho mexido ou queijo minas para não subir o açúcar rápido. É café de rei!",
+        "link": "https://www.google.com/search?q=receita+cuscuz+com+ovo+diabetico",
+        "tags": "café manhã cuscuz barato ovo sustância nordeste"
+    },
+    {
+        "titulo": "Aveia Amiga",
+        "descricao": "Aveia é baratinha e limpa as veias. Faça um mingau com água ou leite desnatado e canela. A canela ajuda a controlar o diabetes!",
+        "link": "https://www.google.com/search?q=mingau+aveia+diabetico+canela",
+        "tags": "café manhã aveia mingau canela coração fibra"
+    },
+    {
+        "titulo": "Crepioca Simples",
+        "descricao": "Misture 1 ovo com 1 colher de goma de tapioca. Fica igual pão de queijo, mas sem a gordura. Ótimo para começar o dia com força.",
+        "link": "https://www.youtube.com/results?search_query=receita+crepioca+simples",
+        "tags": "café manhã crepioca ovo tapioca pão facil"
+    },
+    {
+        "titulo": "Vitamina de Abacate",
+        "descricao": "Abacate tem gordura boa! Bata com leite e adoçante. Sustenta a manhã toda e o preço na época é ótimo.",
+        "link": "https://www.google.com/search?q=beneficios+abacate+diabetes",
+        "tags": "café manhã vitamina abacate bebida leite saciedade"
+    },
+    {
+        "titulo": "Pão Integral Caseiro",
+        "descricao": "Pão integral de mercado é caro, né? Se tiver coragem, fazer em casa sai barato. Misture farinha integral e branca meio a meio.",
+        "link": "https://www.youtube.com/results?search_query=pao+integral+caseiro+barato",
+        "tags": "café manhã pão integral massa forno economia"
+    },
+    {
+        "titulo": "Ovos Mexidos com Tomate",
+        "descricao": "Ovo é vida! Faça mexido com pedacinhos de tomate e orégano. Fica parecendo pizza e não altera a glicemia.",
+        "link": "https://www.google.com/search?q=ovos+mexidos+tomate+beneficios",
+        "tags": "café manhã ovo tomate proteina barato rapido"
+    },
+    {
+        "titulo": "Batata Doce Cozida",
+        "descricao": "Melhor que pão francês! Cozinhe batata doce com casca. Ela libera energia devagar e você não sente fome logo.",
+        "link": "https://www.google.com/search?q=batata+doce+diabetes",
+        "tags": "café manhã batata raiz energia barato cozido"
+    },
+    {
+        "titulo": "Prato Colorido",
+        "descricao": "A regra de ouro do Seu João: metade do prato é salada e legumes. A outra metade você divide entre arroz, feijão e carne.",
+        "link": "https://www.google.com/search?q=prato+ideal+diabetico",
+        "tags": "almoço prato divisão salada arroz regra"
+    },
+    {
+        "titulo": "Frango Grelhado Limão",
+        "descricao": "Peito de frango é mais em conta. Tempere com limão e alho e faça na chapa sem muito óleo. Simples e perfeito.",
+        "link": "https://www.youtube.com/results?search_query=frango+grelhado+suculento",
+        "tags": "almoço carne frango proteina grelhado limão"
+    },
+    {
+        "titulo": "Abobrinha Refogada",
+        "descricao": "Abobrinha é barata e rende muito. Refogue com cebola e alho. Pode comer à vontade que não faz mal.",
+        "link": "https://www.google.com/search?q=receita+abobrinha+refogada",
+        "tags": "almoço legumes abobrinha verde refogado barato"
+    },
+    {
+        "titulo": "Arroz com Brócolis",
+        "descricao": "Para comer menos arroz, misture brócolis picadinho no meio. Fica verde, bonito e você enche a barriga com saúde.",
+        "link": "https://www.google.com/search?q=arroz+com+brocolis+nutritivo",
+        "tags": "almoço arroz brocolis verdura mistura fibra"
+    },
+    {
+        "titulo": "Feijão com Legumes",
+        "descricao": "Enriqueça o feijão! Coloque cenoura ou chuchu para cozinhar junto. Rende mais e fica mais nutritivo.",
+        "link": "https://www.youtube.com/results?search_query=feijao+com+legumes",
+        "tags": "almoço feijão ferro legumes mistura rendimento"
+    },
+    {
+        "titulo": "Sardinha na Pressão",
+        "descricao": "Sardinha é o peixe mais barato e rico em ômega 3. Feita na pressão com vinagre, fica uma delícia e protege o coração.",
+        "link": "https://www.youtube.com/results?search_query=sardinha+na+panela+de+pressao",
+        "tags": "almoço peixe sardinha coração barato omega3"
+    },
+    {
+        "titulo": "Omelete de Forno",
+        "descricao": "Sobrou legumes na geladeira? Pique tudo, misture com ovo e asse. É o famoso 'limpa geladeira' que salva o almoço.",
+        "link": "https://www.google.com/search?q=omelete+de+forno+legumes",
+        "tags": "almoço omelete ovo forno sobra economico"
+    },
+    {
+        "titulo": "Purê de Abóbora",
+        "descricao": "Troque o purê de batata pelo de abóbora (cabotiá). É docinho, mas não faz mal pro diabetes e é rico em vitamina.",
+        "link": "https://www.google.com/search?q=pure+abobora+cabotia+receita",
+        "tags": "almoço pure abobora acompanhamento vitamina cabotia"
+    },
+    {
+        "titulo": "Pipoca de Panela",
+        "descricao": "Pipoca pode! Mas feita na panela com pouco óleo e pouco sal. É fibra pura. Só não vale a de micro-ondas cheia de manteiga.",
+        "link": "https://www.google.com/search?q=pipoca+saudavel+panela",
+        "tags": "lanche pipoca fibra tarde mastigar salgado"
+    },
+    {
+        "titulo": "Iogurte Natural Caseiro",
+        "descricao": "Compre 1 copinho e faça 1 litro com leite fervido. Fica muito mais barato e sem açúcar escondido.",
+        "link": "https://www.youtube.com/results?search_query=como+fazer+iogurte+natural+caseiro",
+        "tags": "lanche iogurte leite calcio caseiro economia"
+    },
+    {
+        "titulo": "Maçã com Casca",
+        "descricao": "A casca da maçã tem pectina, que ajuda a controlar o açúcar. Lave bem e coma tudo. É o lanche mais prático que tem.",
+        "link": "https://www.google.com/search?q=beneficios+maca+diabetes",
+        "tags": "lanche fruta maça fibra rapido pectina"
+    },
+    {
+        "titulo": "Amendoim Torrado",
+        "descricao": "Um punhado (o que cabe na mão fechada) de amendoim torrado sem pele mata a fome e tem gordura boa. Cuidado com o sal!",
+        "link": "https://www.google.com/search?q=amendoim+diabetes+pode",
+        "tags": "lanche castanha amendoim gordura fome salgado"
+    },
+    {
+        "titulo": "Bolo de Caneca sem Farinha",
+        "descricao": "Bata 1 ovo, 1 banana amassada e cacau. 2 minutos no micro-ondas. Mata a vontade de doce sem estragar a dieta.",
+        "link": "https://www.youtube.com/results?search_query=bolo+de+caneca+fit+banana",
+        "tags": "lanche bolo doce banana rapido microondas"
+    },
+    {
+        "titulo": "Queijo Minas Frescal",
+        "descricao": "Uma fatia grossa de queijo branco com um cafezinho preto. Combinação perfeita para o meio da tarde.",
+        "link": "https://www.google.com/search?q=queijo+minas+frescal+saude",
+        "tags": "lanche queijo leite calcio proteina café"
+    },
+    {
+        "titulo": "Sopa de Legumes com Frango",
+        "descricao": "À noite o corpo trabalha menos. Uma sopa leve com chuchu, cenoura e franguinho desfiado esquenta e não pesa.",
+        "link": "https://www.youtube.com/results?search_query=sopa+legumes+frango+desfiado",
+        "tags": "jantar sopa caldo leve legumes noite"
+    },
+    {
+        "titulo": "Salada de Atum",
+        "descricao": "Uma lata de atum (na água, não no óleo!) misturada com alface e tomate. Jantar pronto em 5 minutos.",
+        "link": "https://www.google.com/search?q=salada+atum+receita+simples",
+        "tags": "jantar salada atum peixe rapido frio"
+    },
+    {
+        "titulo": "Panqueca de Aveia",
+        "descricao": "Massa fininha feita com aveia, ovo e água. Recheie com carne moída magra. Jantar de restaurante gastando pouco.",
+        "link": "https://www.youtube.com/results?search_query=panqueca+aveia+fit",
+        "tags": "jantar panqueca carne massa aveia"
+    },
+    {
+        "titulo": "Abobrinha Recheada",
+        "descricao": "Corte a abobrinha ao meio, tire o miolo e coloque carne moída. Põe no forno. Fica chique e muito saudável.",
+        "link": "https://www.google.com/search?q=barco+abobrinha+carne+moida",
+        "tags": "jantar abobrinha carne forno legumes chique"
+    },
+    {
+        "titulo": "Sanduíche Aberto",
+        "descricao": "Pegue uma fatia de pão integral, coloque tomate, orégano e queijo e asse no forno. É leve e mata a vontade de lanche.",
+        "link": "https://www.google.com/search?q=bruschetta+integral+saudavel",
+        "tags": "jantar sanduiche pão queijo leve forno"
+    },
+    {
+        "titulo": "Chá de Camomila",
+        "descricao": "Um chazinho quente ajuda a relaxar e dormir melhor. Sono ruim sobe a glicemia no dia seguinte, viu?",
+        "link": "https://www.google.com/search?q=cha+camomila+beneficios+sono",
+        "tags": "ceia chá dormir sono calma bebida"
+    },
+    {
+        "titulo": "Gelatina Zero",
+        "descricao": "Bateu vontade de doce antes de deitar? Gelatina zero açúcar pode. Refresca e não tem caloria.",
+        "link": "https://www.google.com/search?q=gelatina+zero+diabetes",
+        "tags": "ceia doce gelatina sobremesa leve zero"
+    },
+    {
+        "titulo": "Leite Morno com Canela",
+        "descricao": "O clássico da vovó. Um copo pequeno de leite morno ajuda a pegar no sono e evita a fome na madrugada.",
+        "link": "https://www.google.com/search?q=leite+morno+antes+dormir",
+        "tags": "ceia leite bebida dormir fome vovó"
+    },
+    {
+        "titulo": "3 Bolachas Água e Sal",
+        "descricao": "Se a fome for grande, coma no máximo 3 bolachas com um chá. Cuidado para não exagerar na farinha à noite.",
+        "link": "https://www.google.com/search?q=bolacha+agua+e+sal+diabetes",
+        "tags": "ceia bolacha biscoito fome pouco farinha"
+    },
+    {
+        "titulo": "Marcha Sentada",
+        "descricao": "Sente firme na cadeira e marche mexendo os braços e levantando os joelhos, como se estivesse desfilando. 2 minutinhos!",
+        "link": "https://www.youtube.com/shorts/4T6xp_0VQKE",
+        "tags": "exercicio sentado marcha perna coração cardio"
+    },
+    {
+        "titulo": "Esticar Joelhos",
+        "descricao": "Sentado, estique uma perna para frente até ficar reta, segure e desça devagar. Fortalece a coxa para ajudar a levantar.",
+        "link": "https://www.youtube.com/results?search_query=extensao+joelho+sentado+idoso",
+        "tags": "exercicio perna joelho coxa força sentado"
+    },
+    {
+        "titulo": "Girar os Pés",
+        "descricao": "Levante um pouco o pé e desenhe círculos no ar com a ponta do dedão. Ótimo para circulação e evitar inchaço.",
+        "link": "https://www.google.com/search?q=exercicio+tornozelo+idoso",
+        "tags": "exercicio pé circulação inchaço tornozelo sentado"
+    },
+    {
+        "titulo": "Abraço Apertado",
+        "descricao": "Abra bem os braços e depois se abrace bem forte. Repita 10 vezes. Solta as costas e mexe os ombros.",
+        "link": "https://www.youtube.com/results?search_query=alongamento+braços+sentado",
+        "tags": "exercicio braço ombro costas alongamento sentado"
+    },
+    {
+        "titulo": "Levanta Calcanhar",
+        "descricao": "Com os pés no chão, levante só os calcanhares (fique na ponta do pé) e desça. Ajuda a bombear o sangue de volta pro coração.",
+        "link": "https.google.com/search?q=exercicio+panturrilha+sentado+idoso",
+        "tags": "exercicio panturrilha circulação perna sentado sangue"
+    },
+    {
+        "titulo": "Aperta Almofada",
+        "descricao": "Segure uma almofada entre os joelhos e aperte bem forte, depois solte. Fortalece a parte interna da perna.",
+        "link": "https://www.youtube.com/results?search_query=exercicio+adutor+com+bola+ou+almofada",
+        "tags": "exercicio perna força joelho almofada sentado"
+    },
+    {
+        "titulo": "Boxe no Ar",
+        "descricao": "Dê socos leves no ar para frente. Ajuda a acelerar um pouco o coração e mexe o corpo todo, mesmo sentado.",
+        "link": "https://www.youtube.com/shorts/gBP1T4FaIgg",
+        "tags": "exercicio braço cardio coração movimento sentado"
+    },
+    {
+        "titulo": "Alongamento de Pescoço",
+        "descricao": "Olhe devagar para a direita, volte, olhe para a esquerda. Depois para cima e para baixo. Tira a tensão do dia.",
+        "link": "https://www.youtube.com/watch?v=H3LH3vDxVsc",
+        "tags": "exercicio pescoço relaxar dor alongamento sentado"
+    },
+    {
+        "titulo": "Levantar da Cadeira",
+        "descricao": "Se conseguir, sente e levante da cadeira 5 vezes seguidas sem usar as mãos (ou apoiando pouco). É o melhor para as pernas.",
+        "link": "https://www.youtube.com/watch?v=XOFyhUn8oS0",
+        "tags": "exercicio perna força levantar agachamento cadeira"
+    },
+    {
+        "titulo": "Despertador Amigo",
+        "descricao": "Não confie na cabeça! Coloque o despertador do celular para tocar na hora de cada remédio. É simples e resolve.",
+        "link": "https://www.google.com/search?q=aplicativo+lembrar+remedio",
+        "tags": "remedio alarme esquecimento hora rotina celular"
+    },
+    {
+        "titulo": "Caixinha Semanal",
+        "descricao": "Compre aquela caixinha com os dias da semana (custa uns 10 reais). Domingo à noite você já deixa tudo separado.",
+        "link": "https://www.google.com/search?q=organizador+de+comprimidos+semanal",
+        "tags": "remedio organização caixa dias semana comprar"
+    },
+    {
+        "titulo": "Vincular a Comida",
+        "descricao": "Tente tomar os remédios sempre junto com alguma refeição (café, almoço ou jantar), se o médico deixar. Assim fica automático.",
+        "link": "https://www.google.com/search?q=dicas+nao+esquecer+remedio",
+        "tags": "remedio comida habito rotina memoria medico"
+    },
+    {
+        "titulo": "Tabela na Geladeira",
+        "descricao": "Cole um papel na porta da geladeira com os horários. Toda vez que for beber água ou comer, você vê.",
+        "link": "https.google.com/search?q=tabela+horario+remedios+imprimir",
+        "tags": "remedio papel aviso geladeira visual casa"
+    },
+    {
+        "titulo": "Garrafa de Água",
+        "descricao": "Deixe sempre uma garrafa de água cheia ao lado da cama e da poltrona da TV. Se a água está perto, a gente bebe.",
+        "link": "https://www.youtube.com/watch?v=L-Q58a1jAd0",
+        "tags": "rotina agua hidratação saude rins beber"
+    },
+    {
+        "titulo": "Sintomas de Baixa (Hipoglicemia)",
+        "descricao": "Sentiu tremedeira, suor frio ou confusão? Pode ser o açúcar que caiu. Sente-se imediatamente.",
+        "link": "https://www.youtube.com/watch?v=27996KsjZMI",
+        "tags": "hipoglicemia sintomas passar mal tremedeira suor cair"
+    },
+    {
+        "titulo": "Kit Emergência",
+        "descricao": "Tenha sempre 3 sachês de açúcar ou balinhas de mel no bolso e na cabeceira da cama. Salva vidas!",
+        "link": "https://www.google.com/search?q=o+que+comer+hipoglicemia",
+        "tags": "hipoglicemia socorro açucar bala emergencia bolso"
+    },
+    {
+        "titulo": "Regra dos 15",
+        "descricao": "Glicemia baixou? Coma 15g de açúcar (1 colher de sopa de água com açúcar) e espere 15 minutos antes de medir de novo.",
+        "link": "https://www.google.com/search?q=regra+dos+15+diabetes",
+        "tags": "hipoglicemia regra tratamento socorro medida 15"
+    },
+    {
+        "titulo": "Cuidado ao Cortar Unha",
+        "descricao": "Não tire a cutícula funda e corte a unha reta. Um bifinho no pé de diabético pode virar um problemão.",
+        "link": "https://www.google.com/search?q=como+cortar+unha+diabetico",
+        "tags": "saude pé unha higiene machucado corte cuticula"
+    },
+    {
+        "titulo": "Olho no Sapato",
+        "descricao": "Antes de calçar, vire o sapato e bata para ver se não tem pedrinha dentro. A gente perde a sensibilidade e não sente machucar.",
+        "link": "https://www.google.com/search?q=cuidados+pes+diabetes+calçados",
+        "tags": "saude pé sapato pedra cuidado machucado calçar"
+    },
+    {
+        "titulo": "Secar entre os Dedos",
+        "descricao": "Micose adora umidade. Depois do banho, passe a toalha com carinho entre cada dedo do pé.",
+        "link": "https.google.com/search?q=frieira+diabetes+perigo",
+        "tags": "saude higiene banho pé secar micose dedos"
+    }
+]

@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #27AE60; /* Verde amigável */
+    --secondary-color: #333333; /* Cinza escuro para texto */
+    --accent-color: #E67E22;   /* Laranja acolhedor */
+    --bg-color: #F9F9F9;       /* Cinza bem claro */
+    --card-bg: #FFFFFF;        /* Branco */
+    --info-blue: #3498DB;      /* Azul para links e informações */
+}
+
+body {
+    margin: 0;
+    background: var(--bg-color);
+    color: var(--secondary-color);
+    font-family: 'Lato', sans-serif;
+    line-height: 1.7;
+    font-size: 110%; /* Aumenta o tamanho base da fonte */
+}
+
+/* --- CABEÇALHO --- */
+header {
+    padding: 2.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--primary-color), #2ECC71);
+    color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    gap: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.8rem;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+header p {
+    font-size: 1.2rem;
+    margin: 0;
+    font-weight: 400;
+    opacity: 0.9;
+    margin-top: -1rem;
+}
+
+/* --- ÁREA DE BUSCA --- */
+.input-wrapper {
+    display: flex;
+    gap: 12px;
+    width: 100%;
+    max-width: 45rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+input {
+    flex-grow: 1;
+    padding: 0.9rem 1.4rem;
+    border-radius: 50px;
+    border: 1px solid #DDD;
+    background: var(--card-bg);
+    font-family: inherit;
+    font-size: 1.1rem;
+    color: var(--secondary-color);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05) inset;
+    min-width: 250px;
+}
+
+input::placeholder {
+    color: #999;
+}
+
+input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.2);
+}
+
+button#botao-busca {
+    padding: 0.9rem 2.2rem;
+    border-radius: 50px;
+    border: none;
+    background-color: var(--accent-color);
+    color: white;
+    font-weight: 700;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+button#botao-busca:hover {
+    background-color: #D35400; /* Laranja mais escuro */
+    transform: translateY(-2px);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+}
+
+/* --- ÁREA PRINCIPAL --- */
+main {
+    max-width: 65rem;
+    margin: 3rem auto;
+    padding: 0 1.5rem;
+    min-height: 60vh;
+}
+
+/* --- RESULTADOS (CARDS) --- */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.07);
+    border-top: 5px solid var(--primary-color);
+    padding: 1.8rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    margin-top: 0;
+    font-size: 1.6rem;
+    color: var(--secondary-color);
+    margin-bottom: 0.8rem;
+    font-weight: 700;
+}
+
+.card p {
+    font-size: 1.05rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+    flex-grow: 1; /* Faz a descrição ocupar o espaço disponível */
+}
+
+.card a {
+    display: inline-block;
+    color: var(--info-blue);
+    background-color: transparent;
+    padding: 0.5rem 0;
+    border-radius: 0;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    align-self: flex-start; /* Alinha o link à esquerda */
+    transition: color 0.2s;
+}
+
+.card a:hover {
+    color: #2980B9; /* Azul mais escuro */
+    text-decoration: underline;
+}
+
+/* --- RODAPÉ --- */
+footer {
+    text-align: center;
+    padding: 2.5rem;
+    background-color: #333;
+    color: #AAA;
+    border-top: 5px solid var(--primary-color);
+    margin-top: 4rem;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+/* --- RESPONSIVIDADE --- */
+@media (max-width: 768px) {
+    body {
+        font-size: 100%;
+    }
+
+    header h1 {
+        font-size: 2.2rem;
+    }
+    
+    .input-wrapper {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 0 1rem;
+    }
+    
+    .card {
+        padding: 1.5rem;
+    }
+}
