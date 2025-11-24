@@ -1,2 +1,6 @@
 # Projeto-D.E.M.A
 Projeto D.E.M.A. (Dia a dia, Energia, Movimento, Alimentação): Base de conhecimento para idosos diabéticos. Foca em rotina, receitas baratas e exercícios sentados para combater a sarcopenia. Desenvolvido na Imersão Dev Alura + Google com HTML, CSS, JS e IA Gemini. Tecnologia acessível para devolver autonomia e saúde.
+
+O Projeto D.E.M.A. é uma aplicação web de busca inteligente voltada para idosos diabéticos com múltiplas comorbidades e baixo letramento digital. Inspirado no meu pai, Valdemar ("Dema"), de 78 anos, o acrônimo significa: Dia a dia (rotina), Energia (combate à fadiga), Movimento (exercícios sentados para sarcopenia) e Alimentação (foco em economia).
+
+Diferente de sites de saúde genéricos, o D.E.M.A. utiliza uma base de conhecimento curada (gerada com auxílio do Gemini e validada) que oferece respostas diretas, simples e acolhedoras para problemas reais: "o que comer com pouco dinheiro", "exercícios para fazer no sofá" ou "como lembrar do remédio". O objetivo é devolver a autonomia e organizar a rotina de idosos que sofrem com confusão mental, usando uma interface limpa, de alto contraste e fácil navegação. O código foi construído em HTML, CSS e JS, integrando a lógica de busca em dados JSON, com foco total em utilidade e acessibilidade.
